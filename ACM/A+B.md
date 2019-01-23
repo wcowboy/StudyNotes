@@ -1,6 +1,6 @@
 杭电 ID:1000
 
-![A+B](C:\Users\wcowboy\Pictures\Saved Pictures\A+B.png)
+![problem](https://github.com/wcowboy/Photos/blob/master/ACM/1000%20A%20%2B%20B%20Problem.png)
 
 code:
 
