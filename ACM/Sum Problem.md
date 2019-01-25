@@ -1,6 +1,6 @@
 1001  Sum Problem
 
-![](https://raw.githubusercontent.com/wcowboy/Photos/master/ACM/1001Sum%20Problem.png?token=Ae6XbwLcPyXoILYXRkq2eNHCGQTeoQBPks5cSoOYwA%3D%3D)
+![]https://raw.githubusercontent.com/wcowboy/Photos/master/ACM/1001Sum%20Problem.png?token=Ae6Xb09v8i5GF7hNX_O6Vi7UT3V-yt-Vks5cSog0wA%3D%3D)
 
 #### code:
 
