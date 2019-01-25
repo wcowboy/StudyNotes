@@ -2,5 +2,5 @@
 
 
 
-[1001 Sum Problem](./ACM/Sum Problem.md)
+[1001 Sum Problem](https://github.com/wcowboy/StudyNotes/blob/master/ACM/Sum%20Problem.md)
 
