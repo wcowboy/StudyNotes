@@ -1,6 +1,6 @@
 1002 A + B Problem II
 
-![](https://raw.githubusercontent.com/wcowboy/Photos/master/ACM/1002%20A%20%2B%20B%20Problem%20II.png?token=Ae6Xb1PM0LOfXaIutCWxEBAuyh3SqtWqks5cTCS4wA%3D%3D)
+![](https://raw.githubusercontent.com/wcowboy/Photos/master/ACM/1002%20A%20%2B%20B%20Problem%20II.png?token=Ae6Xb6g4dCAKZ4Jeub4dl4b85bMk-XEBks5cTHUfwA%3D%3D)
 
 #### code:
 
