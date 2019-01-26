@@ -1,4 +1,6 @@
-![](https://github.com/wcowboy/Photos/blob/master/ACM/1002%20A%20+%20B%20Problem%20II.png?raw=true)
+1002 A + B Problem II
+
+![](https://raw.githubusercontent.com/wcowboy/Photos/master/ACM/1002%20A%20%2B%20B%20Problem%20II.png?token=Ae6Xb1PM0LOfXaIutCWxEBAuyh3SqtWqks5cTCS4wA%3D%3D)
 
 #### code:
 
