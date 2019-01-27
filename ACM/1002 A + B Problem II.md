@@ -8,7 +8,7 @@
 #include<stdio.h>
 #include<string.h>
 int main() {
-	static char a[30] = { "\0" }, b[30] = { "\0" }, c[30];
+	static char a[1009] = { "\0" }, b[1009] = { "\0" }, c[1009];
 	int n = 2, len1, len2, temp, min = 0, max = 0;
 	int i,j = 1,k = 1;
 	scanf("%d", &n);
