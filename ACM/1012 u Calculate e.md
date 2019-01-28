@@ -1,6 +1,6 @@
 #### 1012 u Calculate e：
 
-![](https://raw.githubusercontent.com/wcowboy/Photos/master/ACM/1012%20u%20Calculate%20e.png?token=Ae6Xb1q5qMeAjV0yMsRuTSSTSKVFYs0oks5cTHgawA%3D%3D)
+![](https://wcowboy-1258563652.cos.ap-chengdu.myqcloud.com/img/1012%20u%20Calculate%20e.png)
 
 #### code:
 

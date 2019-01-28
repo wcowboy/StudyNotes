@@ -1,5 +1,7 @@
 #### 1032 The 3n + 1 problem：
 
+![](https://wcowboy-1258563652.cos.ap-chengdu.myqcloud.com/img/1032%20The%203n%20%2B%201%20problem.jpg)
+
 #### code:
 
 ```c

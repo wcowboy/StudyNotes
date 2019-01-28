@@ -1,5 +1,7 @@
 #### 1013 Digital Roots：
 
+![](https://wcowboy-1258563652.cos.ap-chengdu.myqcloud.com/img/1013%20Digital%20Roots.png)
+
 #### code:
 
 ```c
