@@ -1,6 +1,6 @@
 ### 2000 ASCII码排序
 
-
+![](https://wcowboy-1258563652.cos.ap-chengdu.myqcloud.com/img/2000%20ASCII%E7%A0%81%E6%8E%92%E5%BA%8F.png)
 
 #### code:
 
