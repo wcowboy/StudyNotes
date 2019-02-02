@@ -13,7 +13,7 @@ struct table {
 	int J;
 	int F;
 	double value;
-} food[maxsize];		//食物数量，需要的猫粮
+} food[maxsize];		 //食物数量，需要的猫粮
 
 int cmp(const void *a, const void *b) {
 	struct table *aa = (table *)a;
