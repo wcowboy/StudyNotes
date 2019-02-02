@@ -1,6 +1,6 @@
 ### 1009 FatMouse' Trade
 
-
+![](https://wcowboy-1258563652.cos.ap-chengdu.myqcloud.com/img/1009%20FatMouse'%20Trade.png)
 
 #### code:
 
