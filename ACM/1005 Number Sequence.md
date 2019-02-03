@@ -2,6 +2,8 @@
 
 ![](https://wcowboy-1258563652.cos.ap-chengdu.myqcloud.com/img/1005%20Number%20Sequence.png)
 
+一开始用递归，然后内存超出限制。因为，然后发现是mod 7，就用循环节。
+
 #### code:
 
 ```c
