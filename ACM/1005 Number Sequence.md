@@ -1,6 +1,6 @@
 ### 杭电1005 Number Sequence
 
-
+![](https://wcowboy-1258563652.cos.ap-chengdu.myqcloud.com/img/1005%20Number%20Sequence.png)
 
 #### code:
 
