@@ -1,6 +1,6 @@
 ### 杭电 1018 Big Number
 
-![]()
+![](https://wcowboy-1258563652.cos.ap-chengdu.myqcloud.com/img/1018%20Big%20Number.png)
 
 N的位数为
 
