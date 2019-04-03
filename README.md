@@ -15,7 +15,7 @@
    | [2009 求数列的和](https://github.com/wcowboy/StudyNotes/blob/master/ACM/2009%20%E6%B1%82%E6%95%B0%E5%88%97%E7%9A%84%E5%92%8C.md) | [2010 水仙花数](https://github.com/wcowboy/StudyNotes/blob/master/ACM/2010%20%E6%B0%B4%E4%BB%99%E8%8A%B1%E6%95%B0.md) | [2011 多项式求和](https://github.com/wcowboy/StudyNotes/blob/master/ACM/2011%20%E5%A4%9A%E9%A1%B9%E5%BC%8F%E6%B1%82%E5%92%8C.md) | [2020 绝对值排序](https://github.com/wcowboy/StudyNotes/blob/master/ACM/2020%20%E7%BB%9D%E5%AF%B9%E5%80%BC%E6%8E%92%E5%BA%8F.md) |                                                              |
    | [2012 素数判定](https://github.com/wcowboy/StudyNotes/blob/master/ACM/2012%20%E7%B4%A0%E6%95%B0%E5%88%A4%E5%AE%9A.md) | [1018 Big Number](https://github.com/wcowboy/StudyNotes/blob/master/ACM/1018%20Big%20Number.md) | [2013 蟠桃记](https://github.com/wcowboy/StudyNotes/blob/master/ACM/2013%20%E8%9F%A0%E6%A1%83%E8%AE%B0.md) | [2021 发工资咯](https://github.com/wcowboy/StudyNotes/blob/master/ACM/2021%20%E5%8F%91%E5%B7%A5%E8%B5%84%E5%92%AF.md) |                                                              |
 
-   #### [NUC:](ACM\NUC)
+   #### [NUC:](ACM/NUC)
 
    |                                                             |      |
    | ----------------------------------------------------------- | ---- |
