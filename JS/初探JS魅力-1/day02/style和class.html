@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #div1{
+            width: 200px;
+            height: 200px;
+            border: 1px solid black;
+            /*background: red;*/
+        }
+        .box{
+            background: red;
+        }
+    </style>
+    <script>
+        function toRed() {
+            var oDive = document.getElementById('div1');
+            oDive.className = 'box';
+        }
+        function toGreen() {
+            var oDive = document.getElementById('div1');
+            oDive.style.background = 'green';
+        }
+    </script>
+</head>
+
+<body>
+<input type="button" value="变红" onclick="toRed()">
+<input type="button" value="变绿" onclick="toGreen()">
+<div id = "div1" ></div>
+</body>
+</html>
