@@ -11,4 +11,4 @@ HTML中脚本必须放在`<script>``</script>`标签中
    
 - `body`中的JS
     
-    [示例1](javaScript/1-写文本)
+    [示例1](javaScript/1_写文本.html)
