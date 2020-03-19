@@ -1,41 +1,19 @@
-div {
-    height:150px;
-    width:200px;
-    border:1px solid #ccc;
-    float:left;
-    margin:16px;
-    }
-    /*例 1：默认为从上到下*/
-.gradient1 {
-    background:linear-gradient(#64d1dd, #fff 50%, #64d1dd);
-    }
-    /*例 2：从左到右*/
-.gradient2 {
-    background:linear-gradient(#e86a43 20%, #fff 50%, #e86a43 80%);
+#wrapper {width:960px; margin:0 auto; border:1px solid;}
+nav {
+width:150px;
+float:left;
+background:#dcd9c0;
 }
-    /*例 3：左上到右下*/
-.gradient3 {
-    background:linear-gradient(#e86a43, #fff 25%, #64d1dd 25%, #64d1dd 75%,
-#fff 75%, #e86a43);
+nav li {
+list-style-type:none;
 }
-.gradient4 {
-    background:linear-gradient(#64d1dd, #fff 25%, #64d1dd 50%, #fff 75%,#64d1dd);
+article {
+width:600px;
+float:left;
+background:#ffed53;
 }
-.gradient5 {
-    background: -webkit-radial-gradient(#fff, #64d1dd, #70aa25);
-}
-.gradient6 {
-    background: -webkit-radial-gradient(circle, #fff, #64d1dd, #e86a43);
-}
-.gradient7 {
-    background: -webkit-radial-gradient(100% 0%, circle, #fff, #64d1dd,
-    #4947ba);
-}
-
-body{
-    font-size: 200%;
-}
-
-.size{
-    font-size: 120%;;
+aside {
+width:210px;
+float:left;
+background:#3f7ccf;
 }
