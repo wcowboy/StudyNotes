@@ -19,7 +19,7 @@
 
 ### [LeetCode](https://github.com/wcowboy/StudyNotes/tree/master/ACM/LeetCode)
 
-|      | [2两数之和](2-两数之和.md) |      |
+|      | [2两数之和](/ACM/LeetCode/2-两数之和.md) |      |
 | ---- | :------------------------: | ---- |
 |      |                            |      |
 |      |                            |      |
