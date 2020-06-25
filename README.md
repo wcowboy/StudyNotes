@@ -1,6 +1,6 @@
 ## 学习笔记
 
-## [ACM](ACM/README.md)
+## [算法](ACM/README.md)
 
 ### [杭电:](ACM)
 
@@ -19,7 +19,7 @@
 
 ### [LeetCode](https://github.com/wcowboy/StudyNotes/tree/master/ACM/LeetCode)
 
-|      | [2两数之和](/ACM/LeetCode/2-两数之和.md) |      |
+| [2两数相加](/ACM/LeetCode/2-两数之和.md) | [21合并两个有序列表](/ACM/LeetCode/21-合并两个有序列表.md) |      |
 | ---- | :------------------------: | ---- |
 |      |                            |      |
 |      |                            |      |
