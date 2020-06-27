@@ -19,7 +19,7 @@
 
 ### [LeetCode](https://github.com/wcowboy/StudyNotes/tree/master/ACM/LeetCode)
 
-| [2两数相加](/ACM/LeetCode/2-两数之和.md) | [21合并两个有序列表](/ACM/LeetCode/21-合并两个有序列表.md) |      |
+| [2-两数相加](/ACM/LeetCode/2-两数之和.md) | [21-合并两个有序列表](/ACM/LeetCode/21-合并两个有序列表.md) |  [1290-二进制链表转十进制](/ACM/LeetCode/1290-二进制链表转十进制.md)    |
 | ---- | :------------------------: | ---- |
 |      |                            |      |
 |      |                            |      |
